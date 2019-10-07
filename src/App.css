@@ -20,3 +20,9 @@
 .App-link {
   color: #09d3ac;
 }
+
+.card-body-stars {
+  display: flex;
+  padding: 0;
+  list-style: none;
+}
